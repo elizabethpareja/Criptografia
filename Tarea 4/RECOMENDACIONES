@@ -1,0 +1,5 @@
+Hola.
+1. El python "elgamal" lo saque de "https://github.com/RyanRiddle/elgamal" y es necesario para poder correr el servidor y el cliente.
+2. Recuerda tener todo el la misma carpeta.
+3. Espera a que el servidor imprima "hola" antes de correr el cliente.
+
