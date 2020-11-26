@@ -1,0 +1,3 @@
+25-jun-2019
+redsalud@mailing.redsalud.cl
+[0-9a-f]{32}@mailing\.redsalud\.cl
